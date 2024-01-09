@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
+Hello boys and girls.
 
-Maybe say a some things about yourself.
+This is just another IT Blog.
 
-Or maybe what you plan to blog about.
+Interests: Windows, Entra ID, Azure, Citrix, QNAP, Veeam, VMWare Esxi/VCSA, Sophos, TPLink Omada, 5G, openWRT
+the list can variate
